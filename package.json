@@ -76,7 +76,8 @@
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
-		"simplebar": "latest",
-		"my-module-dark-theme": "^0.0.3"
+		"my-module-dark-theme": "^0.0.3",
+		"personal-build-frontender": "^0.2.0",
+		"simplebar": "latest"
 	}
 }
