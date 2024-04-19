@@ -74,13 +74,13 @@
 		"webpack-stream": "latest"
 	},
 	"dependencies": {
-		"dynamic-adapt-js-tea": "^0.0.4",
+		"dynamic-adapt-js-tea": "latest",
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
-		"mixin-module-tea": "^0.0.4",
+		"mixin-module-tea": "latest",
 		"my-module-dark-theme": "latest",
-		"personal-build-frontender": "^0.2.0",
+		"personal-build-frontender": "latest",
 		"simplebar": "latest",
-		"wtcher-js-tea": "^0.3.0"
+		"wtcher-js-tea": "latest"
 	}
 }
