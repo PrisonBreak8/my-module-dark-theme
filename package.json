@@ -1,6 +1,6 @@
 {
 	"name": "my-module-dark-theme",
-	"version": "0.2.6",
+	"version": "0.2.7",
 	"description": "my-module-dark-theme",
 	"main": "index.js",
 	"scripts": {
